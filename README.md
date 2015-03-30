@@ -1,0 +1,2 @@
+# d3-action-movies-first-test
+This is a list of Action movies made by Anders Hultqvist showing his theory on which movies paved the way for other genres and/or other movies, if you like, it's children. It's also my first laboration with the Javascript library D3js. My goal for this example was just to get the data out to the DOM and not much more. This is not the best way to display this kind of data, just a way for me to get to know D3. This is also a part of my last project for C3L. 
